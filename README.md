@@ -10,19 +10,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical" height="180" />
 </p>
-
----
-
-
-## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=hassong327&theme=radical)
+---
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=hassong327&theme=radical&margin-w=10&column=7)
-
----
 
 ## 🐍 Snake Contribution Graph
 ![snake gif](https://raw.githubusercontent.com/hassong327/hassong327/output/github-contribution-grid-snake.svg)
