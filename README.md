@@ -1,7 +1,17 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:2e1437,100:283b73&height=200&section=header&text=hassong327&fontSize=60&fontAlign=78&fontAlignY=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:2e1437,100:283b73&height=200&section=header&text=hassong327&fontSize=60&fontAlign=78&fontAlignY=35&fontColor=f0f0f0)
 
 ---
+
+
+## 📊 GitHub Stats
+
+![hassong327's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical)
+
+---
+
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=hassong327&theme=radical)
@@ -15,8 +25,6 @@
 
 ## 🐍 Snake Contribution Graph
 ![snake gif](https://raw.githubusercontent.com/hassong327/hassong327/output/github-contribution-grid-snake.svg)
-
----
 
 ---
 
@@ -34,14 +42,6 @@
 
 ### **DB & Infra**
 <img src="https://skillicons.dev/icons?i=docker" />
-
----
-
-## 📊 GitHub Stats
-
-![hassong327's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical)
 
 ---
 
