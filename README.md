@@ -65,12 +65,21 @@
   <img src="https://skillicons.dev/icons?i=docker" />
 
 </div>
-## 💻 👀
-<p align="center">
+
+---
+
+## 💻 👀 BOJ & Solved.ac
+
+<div align="center">
   <a href="https://solved.ac/ssonna3327">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonna3327" alt="Solved.ac Profile"/>
+    <img 
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonna3327" 
+      alt="Solved.ac Profile" 
+      height="150"
+    />
   </a>
-</p>
+</div>
+
 ---
 
 ## 📫 Contact
