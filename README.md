@@ -4,7 +4,7 @@
 ---
 
 ## 👋 About Me
-- 🌱 꾸준히 성장하는 개발자입니다.
+- 🌱 chobo developer
 - 🔭 현재 관심 분야: Web, Backend, DevOps
 - ⚡ 좋아하는 것: 자동화 · UI/UX · 최적화
 
@@ -44,6 +44,6 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: your-email@example.com
-- 💼 Portfolio: https://your-portfolio.com
-- 📝 Blog: https://your-blog.com
+- ✉️ Email: songha327@gmail.com
+- 💼 Portfolio: https://www.linkedin.com/in/%EC%86%A1%ED%95%98-%EC%9D%B4-b14b1838b/
+- 📷 Instagram: https://www.instagram.com/lsshhhhhh/
