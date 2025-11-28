@@ -3,6 +3,23 @@
 
 ---
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=hassong327&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=hassong327&theme=radical&margin-w=10&column=7)
+
+---
+
+## 🐍 Snake Contribution Graph
+![snake gif](https://raw.githubusercontent.com/hassong327/hassong327/output/github-contribution-grid-snake.svg)
+
+---
+
+---
+
 ## 👋 About Me
 - 🌱 chobo developer
 - 🔭 현재 관심 분야: Web, Backend, DevOps
@@ -25,21 +42,6 @@
 ![hassong327's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=hassong327&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=hassong327&theme=radical&margin-w=10&column=7)
-
----
-
-## 🐍 Snake Contribution Graph
-![snake gif](https://raw.githubusercontent.com/hassong327/hassong327/output/github-contribution-grid-snake.svg)
 
 ---
 
