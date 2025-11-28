@@ -46,9 +46,9 @@
 
 ## 👋 About Me
 
-- 🌱 chobo developer  
-- 🔭 현재 관심 분야: Web, Backend, DevOps  
-- ⚡ 좋아하는 것: 자동화 · UI/UX · 최적화  
+- 🔥 Passionate junior developer exploring modern software technologies  
+- 🤖 Current Interests: Backend Development · MLOps · Computer Vision · Pysical AI 
+- 📑 Projects: Lightweight AI (Quantization, Federated Learning) · ROS2 Robotics · 3D Virtual Modeling
 
 ---
 
