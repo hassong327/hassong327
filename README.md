@@ -6,9 +6,10 @@
 
 ## 📊 GitHub Stats
 
-![hassong327's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical" height="180" />
+</p>
 
 ---
 
