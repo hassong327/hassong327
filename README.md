@@ -7,10 +7,7 @@
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hassong327&theme=radical&show_icons=true" 
-    height="170" 
-  />
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical" 
     height="170" 
