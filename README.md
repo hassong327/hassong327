@@ -68,7 +68,7 @@
 
 ---
 
-## 💻 👀 BOJ & Solved.ac
+## 💻 👀 Solved.ac
 
 <div align="center">
   <a href="https://solved.ac/ssonna3327">
