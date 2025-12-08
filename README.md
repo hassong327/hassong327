@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:2e1437,100:283b73&height=200&section=header&text=hassong327&fontSize=60&fontAlign=78&fontAlignY=35&fontColor=f0f0f0)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:2e1437,100:283b73&height=200&section=header&text=hassong327&fontSize=60&fontAlign=78&fontAlignY=35&fontColor=ffffff)
 
 ---
 
@@ -9,7 +9,7 @@
 
 
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical"
     height="170" 
   />
 
