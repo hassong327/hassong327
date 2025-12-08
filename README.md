@@ -9,7 +9,7 @@
 
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical" 
     height="170" 
   />
 
