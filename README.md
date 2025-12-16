@@ -15,17 +15,6 @@
 
 </div>
 
-### 🔥 GitHub Streak
-
-<div align="center">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=hassong327&theme=radical" 
-    height="160" 
-  />
-
-</div>
-
 ---
 
 ## 🐍 Snake Contribution Graph
@@ -59,7 +48,7 @@
 
   <!-- DB & Infra -->
   <h3><b>DB & Infra</b></h3>
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker,ros" />
 
 </div>
 
