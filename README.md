@@ -17,19 +17,6 @@
 
 ---
 
-## 🐍 Snake Contribution Graph
-
-<div align="center">
-
-  <img 
-    src="https://raw.githubusercontent.com/hassong327/hassong327/output/github-contribution-grid-snake.svg" 
-    alt="snake gif" 
-  />
-
-</div>
-
----
-
 ## 👋 About Me
 
 - 🔥 Passionate junior developer exploring modern software technologies  
