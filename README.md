@@ -35,7 +35,7 @@
 
   <!-- DB & Infra -->
   <h3><b>DB & Infra</b></h3>
-  <img src="https://skillicons.dev/icons?i=docker,ros, ros2" />
+  <img src="https://skillicons.dev/icons?i=docker,ros,ros2" />
 
 </div>
 
