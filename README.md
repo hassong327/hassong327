@@ -41,20 +41,6 @@
 
 ---
 
-## 💻 👀 Solved.ac
-
-<div align="center">
-  <a href="https://solved.ac/ssonna3327">
-    <img 
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssonna3327" 
-      alt="Solved.ac Profile" 
-      height="150"
-    />
-  </a>
-</div>
-
----
-
 ## 📫 Contact
 
 - ✉️ Email: songha327@gmail.com  
