@@ -8,7 +8,12 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical"
+    src="https://github-readme-stats-lac-nu-13.vercel.app/api?username=hassong327&show_icons=true&theme=radical"
+    height="170" 
+  />
+
+  <img 
+    src="https://github-readme-stats-lac-nu-13.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical"
     height="170" 
   />
 
