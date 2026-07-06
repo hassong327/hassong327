@@ -5,24 +5,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats-lac-nu-13.vercel.app/api?username=hassong327&show_icons=true&theme=radical&hide_border=true&border_radius=10"
-          height="180"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats-lac-nu-13.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical&hide_border=true&card_width=320&border_radius=10"
-          height="180"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-lac-nu-13.vercel.app/api?username=hassong327&show_icons=true&theme=radical&hide_border=true&border_radius=10&card_width=420" height="180"/>
+  <img src="https://github-readme-stats-lac-nu-13.vercel.app/api/top-langs/?username=hassong327&layout=compact&theme=radical&hide_border=true&border_radius=10&card_width=360" height="180"/>
+</p>
 
 ---
 
