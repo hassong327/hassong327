@@ -26,11 +26,11 @@
 
   <!-- Languages -->
   <h3><b>Languages</b></h3>
-  <img src="https://skillicons.dev/icons?i=py,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java" />
 
   <!-- DB & Infra -->
   <h3><b>DB & Infra</b></h3>
-  <img src="https://skillicons.dev/icons?i=docker,ros" />
+  <img src="https://skillicons.dev/icons?i=docker,ros,aws" />
 
 </div>
 
